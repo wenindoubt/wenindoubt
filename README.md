@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Hello! I'm a Senior Software Engineer with a huge passion for developing cloud native solutions in AWS.
+
+:star: My Daily Technology Stack
+
+- AWS
+- Angular
+- Serverless Framework
+- WebStorm
+- VIM
+
 <!--
 **wenindoubt/wenindoubt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
