@@ -5,7 +5,7 @@ Hello! I'm a Senior Software Engineer with a huge passion for developing cloud n
 :star: My Daily Technology Stack
 
 - AWS
-- Angular
+-- Angular
 - Serverless Framework
 - WebStorm
 - VIM
