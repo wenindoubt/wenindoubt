@@ -54,13 +54,6 @@ During :last_quarter_moon_with_face: hours
     width="80"
     src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
 </a>
-<a href="https://www.jenkins.io/">
-  <img
-    alt="Jenkins"
-    height="80"
-    width="150"
-    src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" />
-</a>
 <a href="https://git-scm.com/">
   <img
     alt="Git"
