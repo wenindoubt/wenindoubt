@@ -8,7 +8,7 @@ During :sun_with_face: hours
 - ErgoDox EZ (keyboard) and Logitech MX ERGO (mouse)
 
 During :last_quarter_moon_with_face: hours
-- Razer BlackWidow Tournament Edition Chroma (keyboard) and Razer DeathAdder Chroma (mouse)
+- Ducky One 2 Mini v2 RGB LED 60% (keyboard) and Razer DeathAdder Chroma (mouse)
 
 ### :star: Technology Stack: Just a quick peek at some technologies I use on a daily basis
 
