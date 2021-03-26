@@ -38,7 +38,7 @@ During :last_quarter_moon_with_face: hours
     alt="Ionic"
     height="80"
     width="100"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" />
+    src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg" />
 </a>
 <a href="https://www.docker.com/">
   <img
