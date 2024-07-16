@@ -1,14 +1,10 @@
 ## Hi there 👋
 
-I'm a Senior Software Engineer with a huge passion for developing full stack cloud native solutions in AWS.
+I'm a Principal DevOps Engineer with a huge passion for developing Cloud Native solutions in AWS.
 
-### ⚡ Fun fact: I use two sets of keyboard/mouse per day
+I love all-things technology, real estate, and personal finance.
 
-During :sun_with_face: hours
-- ErgoDox EZ (keyboard) and Logitech MX ERGO (mouse)
-
-During :last_quarter_moon_with_face: hours
-- Ducky One 2 Mini v2 RGB LED 60% (keyboard) and Razer DeathAdder Chroma (mouse)
+Check me out at https://www.wenindoubt.com/
 
 ### :star: Technology Stack: Just a quick peek at some technologies I use on a daily basis
 
