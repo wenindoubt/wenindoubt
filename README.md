@@ -1,82 +1,194 @@
-## Hi there 👋
+<div align="center">
 
-I'm a Principal DevOps Engineer with a huge passion for developing Cloud Native solutions in AWS.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:7C3AED,100:DB2777&height=220&section=header&text=Jeffrey%20Wen&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Principal%20DevOps%20Engineer%20%C2%B7%20AI-Native%20Builder%20%C2%B7%20Irvine%2C%20CA&descSize=17&descAlignY=60" alt="banner" />
 
-I love all-things technology, real estate, and personal finance.
-
-Check me out at https://www.wenindoubt.com/
-
-### :star: Technology Stack: Just a quick peek at some technologies I use on a daily basis
-
-<a href="https://aws.amazon.com/">
-  <img
-    alt="Amazon Web Services"
-    height="80"
-    width="150"
-    src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" />
-</a>
-<a href="https://www.serverless.com/">
-  <img
-    alt="Serverless Framework"
-    height="80"
-    width="150"
-    src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg" />
-</a>
-<a href="https://angular.io/">
-  <img
-    alt="Angular"
-    height="80"
-    width="150"
-    src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" />
-</a>
-<a href="https://ionicframework.com/">
-  <img
-    alt="Ionic"
-    height="80"
-    width="100"
-    src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg" />
-</a>
-<a href="https://www.docker.com/">
-  <img
-    alt="Docker"
-    height="80"
-    width="150"
-    src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" />
-</a>
-<a href="https://www.typescriptlang.org/">
-  <img
-    alt="TypeScript"
-    height="80"
-    width="80"
-    src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
-</a>
-<a href="https://git-scm.com/">
-  <img
-    alt="Git"
-    height="80"
-    width="150"
-    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
-</a>
-<a href="https://neovim.io/">
-  <img
-    alt="Neovim"
-    height="80"
-    width="150"
-    src="https://www.vectorlogo.zone/logos/neovimio/neovimio-ar21.svg" />
+<a href="https://wenindoubt.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=0891B2&center=true&vCenter=true&width=760&lines=Cloud-Native+on+AWS+%E2%98%81%EF%B8%8F;Shipping+agentic+apps+with+Claude+%2B+Next.js+16;Real+Estate+%E2%9D%A4+Personal+Finance+%E2%9D%A4+Code;Ship+fast.+Break+nothing." alt="tagline" />
 </a>
 
+<br/>
 
+<p>
+  I'm a <b>Principal DevOps Engineer</b> who builds Cloud-Native and AI-powered products on AWS.<br/>
+  I run <a href="https://wenindoubt.com/"><b>WenInDoubt LLC</b></a> — consulting, and shipping the future I wish existed.
+</p>
 
-<!--
-**wenindoubt/wenindoubt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://wenindoubt.com/"><img alt="Website" src="https://img.shields.io/badge/wenindoubt.com-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:jeffrey@wenindoubt.com"><img alt="Email" src="https://img.shields.io/badge/jeffrey%40wenindoubt.com-DB2777?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/wenindoubt/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
+---
+
+## 🚀 What I'm Building
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 admin.wenindoubt.com</h3>
+      <p>AI-powered CRM for a solo operator. Dual-LLM lead intelligence — <b>Claude</b> scores/researches/drafts outreach, <b>Gemini</b> does the embeddings — with a live Kanban pipeline on Supabase Realtime.</p>
+      <sub><b>Next.js 16 · Claude · Gemini · Supabase · Drizzle · Clerk</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏠 Real Estate Conference Platform</h3>
+      <p>Multi-tenant SaaS for real estate conferences. Per-attendee embeddings drive personalized session recs; RAG chatbot + voice agent; QR check-in kiosk; Stripe ticketing; PWA offline.</p>
+      <sub><b>Next.js 16 · pgvector · Claude · OpenAI · ElevenLabs · Stripe · Serwist</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Ascend</h3>
+      <p>Multi-portal SaaS for a college-admissions agency. Four distinct AI personas across students, advisors, parents, and admins — backed by Lambda response streaming so long generations don't hit API Gateway timeouts.</p>
+      <sub><b>React 19 · Vite · Hono · AWS CDK · Aurora Serverless · Cognito · Claude</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 Imaginate</h3>
+      <p>One command turns a folder of photos into a narrated, crossfaded AI video. Generates clips with fal.ai Veo 3.1, layers ElevenLabs voiceover and mood music, stitches with FFmpeg.</p>
+      <sub><b>Python · fal.ai (Veo 3.1) · ElevenLabs · FFmpeg · Docker</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💰 spendinginpublic.life</h3>
+      <p>Radical personal-finance transparency — public monthly spending vs. US averages. Hardcoded TypeScript data generated by a Claude Code <code>/ingest</code> skill that parses bank CSVs and categorizes merchants.</p>
+      <sub><b>Next.js 16 · TypeScript · Tailwind · shadcn/ui · Claude Code</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧧 leftnocrumbs.app</h3>
+      <p>Lunar New Year AI photo booth. MediaPipe face-detection gates the upload, Replicate PhotoMaker creates a Pixar-style avatar, and a personalized fortune + PDF ships via email.</p>
+      <sub><b>Next.js 16 · Replicate · OpenAI · MediaPipe · Vercel KV · Resend · Clerk</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔒 Icebreaker</h3>
+      <p>Chrome extension for LinkedIn outreach that runs entirely on a <b>local Ollama</b> — zero data leaves the machine. Injects the generated message straight into LinkedIn's compose box.</p>
+      <sub><b>Chrome MV3 · Ollama · Llama 3.2 / Mistral</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 Amazon SP-API Listings</h3>
+      <p>Replaces Amazon's Excel flat-file workflow with a schema-driven UI. Renders SP-API JSON Schemas live via JSON Forms, with 9 custom renderers, an <code>anyOf</code> combobox, and 354 unit tests.</p>
+      <sub><b>Next.js 16 · JSON Forms · AJV · AWS SDK v3 (SigV4) · Zustand · Playwright</b></sub>
+    </td>
+  </tr>
+</table>
+
+<sub>Also kicking around: <b>Armory</b> (Claude Code slash-commands for Jira / Confluence automation) · <b>barry.party</b> (RAG concierge for a bachelor party — reseed the markdown and reuse for any trip) · <b>wenindoubt-claw</b> (Telegram reminder bot with an OpenAI tool-calling agentic loop).</sub>
+
+---
+
+## 🧠 Current Stack
+
+<p>
+  <b>Cloud &amp; DevOps</b><br/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/AWS%20CDK-FF9900?style=flat-square&logo=awscdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+</p>
+
+<p>
+  <b>Frontend</b><br/>
+  <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+</p>
+
+<p>
+  <b>Backend &amp; Data</b><br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+</p>
+
+<p>
+  <b>AI &amp; Agents</b><br/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/fal.ai-F40052?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Replicate-000000?style=flat-square&logo=replicate&logoColor=white"/>
+</p>
+
+<p>
+  <b>Tooling</b><br/>
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white"/>
+</p>
+
+---
+
+## 📊 By The Numbers
+
+<div align="center">
+
+<a href="https://github.com/wenindoubt">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wenindoubt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=A0AEC0&bg_color=0D1117" />
+</a>
+<a href="https://github.com/wenindoubt">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenindoubt&layout=compact&hide_border=true&title_color=0891B2&text_color=A0AEC0&bg_color=0D1117&langs_count=8" />
+</a>
+
+<br/>
+
+<a href="https://github.com/wenindoubt">
+  <img src="https://streak-stats.demolab.com?user=wenindoubt&hide_border=true&background=0D1117&stroke=7C3AED&ring=0891B2&fire=DB2777&currStreakLabel=0891B2&sideNums=A0AEC0&currStreakNum=ffffff&dates=A0AEC0&sideLabels=A0AEC0" height="165" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=wenindoubt&theme=onedark&no-frame=true&column=7&margin-w=8" />
+</a>
+
+</div>
+
+---
+
+## 🏡 Beyond Code
+
+I split my time between shipping systems and chasing two obsessions:
+
+- **🏠 Real estate** — I host and build tooling for real estate conferences, where operators, investors, and agents swap the playbooks that actually worked for them.
+- **💰 Personal finance** — My wife and I track every dollar we spend, benchmarked against US averages, because the most useful finance content is the unfiltered kind.
+- **🧑‍💻 Consulting** — Through **[WenInDoubt LLC](https://wenindoubt.com/)**, I help teams ship AI-powered products on AWS without lighting their cloud bill on fire.
+
+---
+
+## 📫 Let's Talk
+
+<div align="center">
+
+<a href="https://wenindoubt.com/"><img alt="Website" src="https://img.shields.io/badge/wenindoubt.com-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:jeffrey@wenindoubt.com"><img alt="Email" src="https://img.shields.io/badge/Email%20Me-DB2777?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/wenindoubt/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/wenindoubt"><img alt="GitHub" src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<sub>If you're building something in real estate, personal finance, or AI — <b>I want to hear about it</b>.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DB2777,50:7C3AED,100:0891B2&height=120&section=footer" alt="footer" />
