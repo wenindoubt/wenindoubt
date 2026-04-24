@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:7C3AED,100:DB2777&height=220&section=header&text=Jeffrey%20Wen&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Principal%20DevOps%20Engineer%20%C2%B7%20AI-Native%20Builder%20%C2%B7%20Irvine%2C%20CA&descSize=17&descAlignY=60" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:7C3AED,100:DB2777&height=220&section=header&text=Jeffrey%20Wen&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Founder%2C%20WenInDoubt%20LLC%20%C2%B7%20Principal%20Engineer%20%C2%B7%20Irvine%2C%20CA&descSize=17&descAlignY=60" alt="banner" />
 
 <a href="https://wenindoubt.com/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=0891B2&center=true&vCenter=true&width=760&lines=Cloud-Native+on+AWS+%E2%98%81%EF%B8%8F;Building+what+I+wish+existed;Cloud+%E2%9D%A4+AI+%E2%9D%A4+Code;Ship+fast.+Break+nothing." alt="tagline" />
@@ -9,13 +9,9 @@
 <br/>
 
 <p>
-  I'm a <b>Principal DevOps Engineer</b> who builds Cloud-Native and AI-powered products on AWS.<br/>
-  I run <a href="https://wenindoubt.com/"><code><b>WenInDoubt LLC</b></code></a> — consulting, and shipping the future I wish existed.
+  I'm a <b>Principal Engineer</b> and the <b>Founder of <a href="https://wenindoubt.com/"><code>WenInDoubt LLC</code></a></b>.<br/>
+  Building Cloud-Native and AI-powered products on AWS — and shipping the future I wish existed.
 </p>
-
-<a href="https://wenindoubt.com/"><img alt="Website" src="https://img.shields.io/badge/wenindoubt.com-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:jeffrey@wenindoubt.com"><img alt="Email" src="https://img.shields.io/badge/jeffrey%40wenindoubt.com-DB2777?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/wenindoubt/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
