@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:7C3AED,100:DB2777&height=220&section=header&text=Jeffrey%20Wen&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Principal%20DevOps%20Engineer%20%C2%B7%20AI-Native%20Builder%20%C2%B7%20Irvine%2C%20CA&descSize=17&descAlignY=60" alt="banner" />
 
 <a href="https://wenindoubt.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=0891B2&center=true&vCenter=true&width=760&lines=Cloud-Native+on+AWS+%E2%98%81%EF%B8%8F;Building+what+I+wish+existed;Real+Estate+%E2%9D%A4+Personal+Finance+%E2%9D%A4+Code;Ship+fast.+Break+nothing." alt="tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=0891B2&center=true&vCenter=true&width=760&lines=Cloud-Native+on+AWS+%E2%98%81%EF%B8%8F;Building+what+I+wish+existed;Cloud+%E2%9D%A4+AI+%E2%9D%A4+Code;Ship+fast.+Break+nothing." alt="tagline" />
 </a>
 
 <br/>
@@ -64,25 +64,22 @@
       <p>Replaces marketplace listing workflows with dynamic JSON Schema UIs — live-rendered forms, custom renderers, hundreds of unit tests.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Enterprise Workflow Automation</h3>
+      <p>Claude Code slash-commands that bridge AI with enterprise project management — generating and validating tickets from source docs, automating routine workflows.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎫 Event RAG Concierges</h3>
+      <p>Private chatbots for trips, parties, and conferences — seeded from markdown, repurpose with a content swap.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>📱 Agentic Messaging Bots</h3>
+      <p>Telegram bots with local tool-calling loops — natural-language reminders, scheduling, and personal assistants.</p>
+    </td>
+  </tr>
 </table>
-
-<sub>Plus a rotating cast of one-off tools — Claude Code slash-commands for enterprise workflows, RAG concierges for private events, Telegram bots with agentic loops.</sub>
-
----
-
-## 📫 Let's Talk
-
-<div align="center">
-
-<a href="https://wenindoubt.com/"><img alt="Website" src="https://img.shields.io/badge/wenindoubt.com-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:jeffrey@wenindoubt.com"><img alt="Email" src="https://img.shields.io/badge/Email%20Me-DB2777?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/wenindoubt/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/wenindoubt"><img alt="GitHub" src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-<sub>If you're building something in real estate, personal finance, or AI — <b>I want to hear about it</b>.</sub>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DB2777,50:7C3AED,100:0891B2&height=120&section=footer" alt="footer" />
